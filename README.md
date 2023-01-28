@@ -10,19 +10,19 @@
 - It is a react web app to maintain everything when it comes to run a business.
 - Almost all aspect of a business is present on this app making it perfect for small/big businesses.
 
-- 🌱 I’m currently learning **Backend integration with Nodejs**
+- 🌱 I’m currently learning **Android MVVM - Dagger2**
 
-- 👯 I’m looking to collaborate on **Unique projects with react and APIs**
+- 👯 I’m looking to collaborate on **Unique projects with Rest API**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/AUAkash/htmlPortfolio)
+- 👨‍💻 All of my projects are available [here](https://github.com/afjalAn1512/htmlPortfolio)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Java and Python.**
+- 💬 Ask me about **Java, Xml, Figma HTML, CSS, JavaScript, and Python.**
 
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=AUAkash&show_icons=true&locale=en" alt="AUAkash" /></p>
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=afjalAn1512&show_icons=true&locale=en" alt="afjalAn1512" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/AUAkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="AUAkash" height="30" width="40" /></a>
+<a href="https://dev.to/afjalAn1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="afjalAn1512" height="30" width="40" /></a>
 <a href="https://twitter.com/AUAkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AUAkash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/AUAkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AUAkash" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19174477/AUAkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="AUAkash" height="30" width="40" /></a>
