@@ -3,29 +3,29 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AUAkash" alt="AUAkash" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AUAkash&label=Profile%20views&color=0e75b6&style=flat" alt="AUAkash" /> </p>
-<p align="left"> <a href="https://twitter.com/AUAkash" target="blank"><img src="https://img.shields.io/twitter/follow/AUAkash?logo=twitter&style=for-the-badge" alt="AUAkash" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AUAkash&label=Profile%20views&color=0e75b6&style=flat" alt="afjalAn1512" /> </p>
+<p align="left"> <a href="https://@MDAkash27329566" target="blank"><img src="https://img.shields.io/twitter/follow/AUAkash?logo=twitter&style=for-the-badge" alt="afjalAn1512" /></a> </p>
 
 - 🔭 I’m currently working a [ARS Tech](https://arstechbd.com/)
 - It is a react web app to maintain everything when it comes to run a business.
 - Almost all aspect of a business is present on this app making it perfect for small/big businesses.
 
-- 🌱 I’m currently learning **Android MVVM - Dagger2**
+- 🌱 I’m currently learning **MVVM - Dagger2**
 
 - 👯 I’m looking to collaborate on **Unique projects with Rest API**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/afjalAn1512/htmlPortfolio)
 
-- 💬 Ask me about **Java, Xml, Figma HTML, CSS, JavaScript, and Python.**
+- 💬 Ask me about **Java, Xml, Figma, HTML, CSS, JavaScript, and Python.**
 
 <p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=afjalAn1512&show_icons=true&locale=en" alt="afjalAn1512" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/afjalAn1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="afjalAn1512" height="30" width="40" /></a>
-<a href="https://twitter.com/AUAkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AUAkash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/AUAkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AUAkash" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19174477/AUAkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="AUAkash" height="30" width="40" /></a>
+<a href="https://@MDAkash27329566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AUAkash" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-afjal-ahmed-0b3b3a1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afjalAn1512" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18003958/afjala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="afjalAn1512" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
