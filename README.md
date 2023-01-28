@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AUAkash" alt="AUAkash" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AUAkash&label=Profile%20views&color=0e75b6&style=flat" alt="afjalAn1512" /> </p>
-<p align="left"> <a href="https://@MDAkash27329566" target="blank"><img src="https://img.shields.io/twitter/follow/AUAkash?logo=twitter&style=for-the-badge" alt="afjalAn1512" /></a> </p>
+<p align="left"> <a href="@MDAkash27329566" target="blank"><img src="https://img.shields.io/twitter/follow/AUAkash?logo=twitter&style=for-the-badge" alt="afjalAn1512" /></a> </p>
 
 - 🔭 I’m currently working a [ARS Tech](https://arstechbd.com/)
 - It is a react web app to maintain everything when it comes to run a business.
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/afjalAn1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="afjalAn1512" height="30" width="40" /></a>
-<a href="https://@MDAkash27329566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AUAkash" height="30" width="40" /></a>
+<a href="@MDAkash27329566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AUAkash" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-afjal-ahmed-0b3b3a1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afjalAn1512" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18003958/afjala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="afjalAn1512" height="30" width="40" /></a>
 </p>
