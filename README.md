@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AUAkash&label=Profile%20views&color=0e75b6&style=flat" alt="afjalAn1512" /> </p>
 <p align="left"> <a href="https://twitter.com/MDAkash27329566" target="blank"><img src="https://img.shields.io/twitter/follow/AUAkash?logo=twitter&style=for-the-badge" alt="afjalAn1512" /></a> </p>
 
-- 🔭 I’m currently working a [ARS Tech](https://arstechbd.com/)
+- 🔭 I’m currently working a [Soft Host iT](https://softhostit.com/)
 - It is a react web app to maintain everything when it comes to run a business.
 - Almost all aspect of a business is present on this app making it perfect for small/big businesses.
 
