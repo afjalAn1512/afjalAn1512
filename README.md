@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/afjalAn1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="afjalAn1512" height="30" width="40" /></a>
+<a href="https://dev.to/md_afjalahmed_1a448fbd8b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="afjalAn1512" height="30" width="40" /></a>
 <a href="https://twitter.com/MDAkash27329566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AUAkash" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-afjal-ahmed-0b3b3a1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afjalAn1512" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-afjal-ahmed-0b3b3a1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afjalAn1512" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18003958/afjala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="afjalAn1512" height="30" width="40" /></a>
 </p>
 
